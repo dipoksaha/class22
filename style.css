@@ -1,0 +1,234 @@
+*{
+    font-family: 'Noto Serif', serif;
+
+    font-family: 'PT Serif', serif;
+
+    font-family: 'Roboto', sans-serif;
+
+    font-family: 'Unbounded', cursive;
+
+    font-family: 'Work Sans', sans-serif;
+  
+}
+
+
+
+.header-section{
+    background: #fff;
+    padding: 20px 0;
+    box-shadow:0 0 8px #dbdbdb ;
+}
+
+.header-logo {}
+.header-logo img{
+    width: 100px;
+}
+.header-menu{}
+.header-menu ul{
+    float: right;
+}
+.header-menu ul li{
+    display: inline-block;
+    margin: 10px 20px 0 0;
+}
+.header-menu ul li a{
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+.banner-section{
+    background: #f9f9ff;
+}
+.banner-section .banner-text{
+  margin-top: 150px;
+}
+.banner-section .banner-text h2{
+    font-weight: 700;
+    padding: 10px 0;
+    font-size: 35px;
+}
+.banner-section .banner-text p{
+    font-size: 20px;
+}
+.banner-section a{}
+.about-section{
+    padding: 50px 0;
+}
+.about-section .about-text{
+    margin-top: 20px;
+}
+.about-img{
+    box-shadow: 0 0 10px #dbdbdb;
+}
+.about-section .about-img img{
+    width: 100%;
+}
+.about-text h1{
+    font-weight: 700;
+}
+.about-text h5{
+   
+}
+.about-text p{
+    font-size: 20px;
+}
+.counter-section{
+    background: #8490ff;
+    padding: 50px 0;
+}
+.counter-section .counter-1 {
+    text-align: center;
+}
+.counter-section .counter-1 h3{
+    color: #fff;
+    font-size: 35px;
+    font-weight: 700;
+}
+.counter-section .counter-1 p{
+    color: #fff;
+}
+.pricing-section{
+    text-align: center;
+}
+.pricing-section h3{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background: #dee1ff;
+    line-height: 70px;
+    display: inline-block;
+}
+.pricing-card{
+    box-shadow: 0 0 10px rgb(216, 216, 216);
+    padding: 30px 0;
+    background: #fff;
+}
+.pricing-card h3{
+    
+}
+.pricing-card h4{
+    padding: 10px 0;
+}
+.pricing-card h5{
+    padding-top: 10px;
+
+}
+.pricing-card p{
+    line-height: 50px;
+    
+}
+.pricing-card a{
+    margin-top: 10px;
+}
+.pricing-section{
+    padding: 50px 0;
+    background: #f9f9ff;
+}
+.pricing-section p{
+    padding: 30px 0;
+    font-size: 20px;
+    
+}
+.pricing-section h2 {
+    font-weight: 700;
+
+}
+.monitor-section{
+    padding: 200px  0 100px 0;
+}
+.monitor-section .monitor-1{
+    text-align: center;
+    box-shadow:  0 0 10px rgb(221, 221, 221);
+    position: relative;
+    padding: 70px 50px;
+    
+}
+.monitor-section .monitor-1 img{
+    position: absolute;
+    top: -55px;
+    left: 53px;
+    width: 118px;
+}
+.monitor-1 a{
+    margin-top: 10px;
+}
+.monitor-1 p{
+    font-size: 20px;
+}
+.monitor-1 h1{
+    font-weight: 700;
+}
+.monitor-1 h6{
+    font-weight: 700;
+}
+.input-t1{
+    display: inline !important;
+}
+.form-control{
+    display: inline;
+}
+.form-section{
+    text-align: center;
+    padding: 50px 0;
+    background: #f9f9ff;
+}
+.form-section p{
+    font-size: 20px;
+}
+.form-section h2{
+    font-weight: 700;
+}
+.form-section h3{
+    font-weight: 700;
+}
+.form-start{
+    box-shadow: 0 0 10px rgb(228, 228, 228);
+    padding: 30px 43px ;
+    margin-top: 30px;
+    background: #fff;
+}
+.touch-section{
+    text-align: left;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.fotter-section{
+    background: #474787;
+    padding: 50px 0;
+}
+.fotter-section p{
+    color: #fff;
+    margin-top: 10px;
+    font-size: 20px;
+
+}
+.fotter-section i{
+    color: #fff;
+    font-size: 20px;
+    margin-right: 10px;
+}
+.fotter-section h2{
+    color: #fff;
+    font-weight: 700;
+}
+
+
+.fotter-section  a{
+    text-decoration: none;
+    color: #fff;
+    display: block;
+    line-height: 40px;
+    font-size: 20px;
+}
+.fotter-2{
+    margin-left: 20px;
+}
+.foter{
+    background:#4c5c6e ;
+    padding: 20px 0;
+    text-align: center;
+}
+.foter p{
+    color: #fff;
+    font-size: 20px;
+}
